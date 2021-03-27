@@ -23,7 +23,7 @@
 
 ## Languages and Tools:
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=uguraltinsoy&theme=default " alt="uguraltinsoy" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uguraltinsoy&theme=default " alt="uguraltinsoy" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uguraltinsoy&theme=default" alt="uguraltinsoy" /></p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uguraltinsoy&layout=compact&theme=default )](https://github.com/anuraghazra/github-readme-stats)
 
