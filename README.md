@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="left" width="150" height="150" alt="kishore" src="./assets/avatar.png" />
+<img align="left" width="150" height="150" alt="kishore" src="./assets/avatar.jpg" />
 
 ## I'm Uğur Altınsoy
 
