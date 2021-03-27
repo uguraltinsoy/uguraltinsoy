@@ -22,8 +22,8 @@
 
 
 ## Languages and Tools:
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=uguraltinsoy&theme=vue-dark" alt="uguraltinsoy" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uguraltinsoy&theme=vue-dark" alt="uguraltinsoy" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=uguraltinsoy&theme=vue" alt="uguraltinsoy" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uguraltinsoy&theme=vue" alt="uguraltinsoy" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uguraltinsoy&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uguraltinsoy&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
