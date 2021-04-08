@@ -1,6 +1,4 @@
-### Hi there 👋
-
-<img align="left" width="150" height="150" alt="kishore" src="./assets/avatar.png" />
+<img align="left" width="150" height="150" alt="uguraltinsoy" src="./assets/avatar.png" />
 
 ## I'm Uğur Altınsoy
 
@@ -24,8 +22,8 @@
 
 
 ## Languages and Tools:
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=uguraltinsoy&show_icons=true" alt="uguraltinsoy" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uguraltinsoy&" alt="uguraltinsoy" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=uguraltinsoy&theme=default " alt="uguraltinsoy" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uguraltinsoy&theme=default" alt="uguraltinsoy" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uguraltinsoy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uguraltinsoy&layout=compact&theme=default )](https://github.com/anuraghazra/github-readme-stats)
 
