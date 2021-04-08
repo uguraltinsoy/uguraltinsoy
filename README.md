@@ -15,7 +15,7 @@
 [![Google Play](https://img.shields.io/badge/Google%20Play-414141?logo=google-play&logoColor=white&style=for-the-badge)](https://play.google.com/store/apps/developer?id=DeepLab&hl=tr)
 
 ### I'm Currently
-- 🔭 I’m currently working on **C#** , **JAVA**, **PHP** at work and some libraries when I'm free.
+- 🔭 I’m currently working on **JAVA**, **C#**, **PHP**, **PYTHON**, **SQL** at work and some libraries when I'm free.
 - 👨‍💻 Junior software developer at Deeplab.
 - 📚 Learning full stack development.
 - 📱 Exploring hybrid apps development.
