@@ -14,8 +14,8 @@
 - 📚 Learning full stack development.
 - 🌱 I’m currently learning Python ,Tensorflow and OpenCv.
 - 📱 Exploring hybrid apps development.
-- 📫 to reach me: <a href="mailto:ugur.altnsy@gmail.com">ugur.altnsy@gmail.com</a> <br>
-- 🌐 website: <a href="https://deeplabsoftware.com" target="_blank">deeplabsoftware.com</a>
+- 📫 To reach me: <a href="mailto:ugur.altnsy@gmail.com">ugur.altnsy@gmail.com</a> <br>
+- 🌐 Website: <a href="https://deeplabsoftware.com" target="_blank">deeplabsoftware.com</a>
 
 ## Social Media:
 <p align="left">  
