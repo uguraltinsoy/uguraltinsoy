@@ -58,4 +58,6 @@
     <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=uguraltinsoy&theme=default " alt="uguraltinsoy" /> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=uguraltinsoy&show_icons=true&locale=en&layout=compact" alt="uguraltinsoy" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=uguraltinsoy&show_icons=true&locale=en&layout=compact" alt="uguraltinsoy" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uguraltinsoy&theme=default" alt="uguraltinsoy" width="50%" /></p>
