@@ -1,9 +1,5 @@
-
-
-
 <img align="left" width="150" height="150" alt="uguraltinsoy" src="./assets/avatar.png" />
-
-## I'm Uğur Altınsoy
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Uğur Altınsoy....;Nice+to+meet+you!&center=true&size=30">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uguraltinsoy&label=Profile%20views&color=0e75b6&style=flat" alt="uguraltinsoy" /> </p>
 
@@ -57,7 +53,21 @@
     <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" /></a>
     <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40" /></a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=uguraltinsoy&show_icons=true&locale=en&layout=compact" alt="uguraltinsoy" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uguraltinsoy&theme=default" alt="uguraltinsoy" width="50%" /></p>
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats"title="Go to Source">
+      <img align="left" width=396 src="https://github-readme-streak-statsherokuapp.com/?user=uguraltinsoy&theme=react&border=61dafbhide_border=true" alt="uguraltinsoy" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go toSource">
+      <img align="right" width=396 src="https://github-readme-stats.vercel.appapi?username=uguraltinsoy&show_icons=true&theme=react&border_color=61dafbhide_border=true" />
+    </a>
+  </div>
+  <br><br><br><br><br><br>
+  <div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img width=325 align="center" src="https://github-readme-stats.vercel.appapi/top-langs/?username=uguraltinsoy&hide=c%23,powershell,MathematicaRuby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafbtext_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8layout=compact&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br>
+  <img src="https://activity-graph.herokuapp.com/graph?username=uguraltinsoytheme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p>
