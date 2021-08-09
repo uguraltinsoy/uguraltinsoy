@@ -2,7 +2,7 @@
 
 
 <img align="left" width="150" height="150" alt="uguraltinsoy" src="./assets/avatar.png" />
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Uğur Altınsoy....;Nice+to+meet+you!&center=true&size=30">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Uğur Altınsoy....;Nice+to+meet+you!&center=true&size=30"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uguraltinsoy&label=Profile%20views&color=0e75b6&style=flat" alt="uguraltinsoy" /> </p>
 
