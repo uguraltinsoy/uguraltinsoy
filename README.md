@@ -16,7 +16,7 @@
 - 🌱 I’m currently learning Python ,Tensorflow and OpenCv.
 - 📱 Exploring hybrid apps development.
 - 📫 To reach me: <a href="mailto:ugur.altnsy@gmail.com">ugur.altnsy@gmail.com</a> <br>
-- 🌐 Website: <a href="https://deeplabsoftware.com" target="_blank">deeplabsoftware.com</a>
+- 🌐 Website: <a href="https://deeplabstudio.com" target="_blank">deeplabsoftware.com</a>
 
 ## Connect with me:
 <p align="left">
