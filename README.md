@@ -11,7 +11,7 @@
 
 ## I'm Currently
 - 🔭 I’m currently working on **JAVA**, **C#**, **PHP**, **PYTHON**, **SQL** at work and some libraries when I'm free.
-- 👨‍💻 Junior software developer at Deeplab.
+- 👨‍💻 Mid software developer at Deeplab.
 - 📚 Learning full stack development.
 - 🌱 I’m currently learning Python ,Tensorflow and OpenCv.
 - 📱 Exploring hybrid apps development.
