@@ -21,7 +21,7 @@
 ## Connect with me:
 <p align="left">
 <a href="https://twitter.com/uguraltnsy" target="blank"><img align="center" src="https://www.iics.k12.tr/wp-content/uploads/2019/07/twitter-logo-png-twitter-logo.png" alt="uguraltnsy" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/uguraltnsy" target="blank"><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" alt="uguraltnsy" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/uguraltnsy" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="uguraltnsy" height="30" width="30" /></a>
 <a href="https://stackoverflow.com/users/15513410" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="15513410" height="45" width="45" /></a>
 <a href="https://instagram.com/ugur.altnsy" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="ugur.altnsy" height="30" width="30" /></a>
 <a href="https://play.google.com/store/apps/dev?id=6653097953188286615" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/google-play-5.svg" alt="deeplab" height="30" width="30" /></a>
