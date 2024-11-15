@@ -17,6 +17,7 @@
 - 📱 Exploring hybrid apps development.
 - 📫 To reach me: <a href="mailto:ugur.altnsy@gmail.com">ugur.altnsy@gmail.com</a> <br>
 - 🌐 Website: <a href="https://deeplabstudio.com" target="_blank">deeplabstudio.com</a>
+- 📡 My radio call sign: TA2DMX
 
 ## Connect with me:
 <p align="left">
