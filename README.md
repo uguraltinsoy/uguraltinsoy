@@ -10,10 +10,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uguraltinsoy" alt="uguraltinsoy" /></a> </p>
 
 ## I'm Currently
-- 🔭 I’m currently working on **JAVA**, **C#**, **PHP**, **PYTHON**, **SQL** at work and some libraries when I'm free.
+- 🔭 I’m currently working on **JAVA**, **Swift&SwiftUI**, **C#**, **PHP**, **PYTHON**, **SQL** at work and some libraries when I'm free.
 - 👨‍💻 Mid software developer at Deeplab.
 - 📚 Learning full stack development.
-- 🌱 I’m currently learning Python ,Tensorflow and OpenCv.
 - 📱 Exploring hybrid apps development.
 - 📫 To reach me: <a href="mailto:ugur.altnsy@gmail.com">ugur.altnsy@gmail.com</a> <br>
 - 🌐 Website: <a href="https://deeplabstudio.com" target="_blank">deeplabstudio.com</a>
