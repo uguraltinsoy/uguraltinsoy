@@ -50,8 +50,7 @@
 <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-2013.svg" width="40" height="40"/>
  <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" width="40" height="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" width="40" height="40" />
-<img src="
-https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="40" height="40" />
+<img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="40" height="40" />
 </p>
 
 
